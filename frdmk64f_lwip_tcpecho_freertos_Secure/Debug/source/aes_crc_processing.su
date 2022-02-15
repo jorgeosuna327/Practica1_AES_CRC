@@ -1,0 +1,6 @@
+../source/aes_crc_processing.c:29:13:InitCrc32	32	static
+../source/aes_crc_processing.c:44:10:split_received_data	72	dynamic
+../source/aes_crc_processing.c:76:10:calculate_crc32_bodyMsg	24	static
+../source/aes_crc_processing.c:88:6:Decrypt_received_bodyMsg	264	static
+../source/aes_crc_processing.c:113:6:MsgToSend_Encrypt_CRC32	328	dynamic
+../source/aes_crc_processing.c:154:6:aes_crc_processing	640	dynamic
